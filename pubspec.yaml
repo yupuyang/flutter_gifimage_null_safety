@@ -1,4 +1,4 @@
-name: flutter_gifimage
+name: flutter_gifimage_null_safety
 description: a gifimage for flutter,for solving gif cannot be controlled speed,progress
 version: 1.0.1
 author: Jpeng <peng8350@gmail.com>

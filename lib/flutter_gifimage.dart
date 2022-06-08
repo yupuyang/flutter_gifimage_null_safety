@@ -4,7 +4,7 @@
   time:2019-7-26 3:30
 */
 
-library flutter_gifimage;
+library flutter_gifimage_null_safety;
 
 import 'dart:io';
 import 'dart:ui' as ui show Codec;
