@@ -34,9 +34,9 @@ class GifController extends AnimationController {
   GifController(
       {required TickerProvider vsync,
       double value = 0.0,
-      required Duration reverseDuration,
-      required Duration duration,
-      required AnimationBehavior animationBehavior})
+      Duration? reverseDuration,
+      Duration? duration,
+      AnimationBehavior? animationBehavior})
       : super.unbounded(
             value: value,
             reverseDuration: reverseDuration,
